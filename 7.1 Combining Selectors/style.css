@@ -15,3 +15,6 @@ div>p {
 li.done {
     color: green;
 }
+ul   p.done{
+    font-size: .5rem;
+}
